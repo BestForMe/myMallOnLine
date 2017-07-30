@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;taotao-manager&apos;&#x0D;&#x0A;- Original project: &apos;taotao-manager&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     taotao-manager-mapper&#x0D;&#x0A;     taotao-manager-pojo&#x0D;&#x0A;     taotao-manager-service&#x0D;&#x0A;     taotao-manager-web" description="Delete elements" element1="taotao-manager-mapper" element2="taotao-manager-web" element3="taotao-manager-pojo" element4="taotao-manager-service" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="4" stamp="1501398724217" subPackages="false" version="1.0"/>
+</session>
